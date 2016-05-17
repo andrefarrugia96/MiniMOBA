@@ -7,7 +7,7 @@ public class CreepAI : MonoBehaviour
 	private Character c;
 	public Character target = null;
 	public Vector3 movement;
-	public float speed = 2;
+	public float speed = 4;
 	public bool tower = false;
 	public Transform ShotPrefab;
 	
